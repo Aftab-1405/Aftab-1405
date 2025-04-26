@@ -1,7 +1,10 @@
 # Hi there, I'm Aftab Nadaf 👋
 
-## About Me  
-I’m a **Computer Science graduate** from Shivaji University, Kolhapur, currently working as a **Digital Quality Engineer** with hands-on experience in **manual and automation testing**. While I excel in ensuring software quality and reliability, my true passion lies in **backend development** and building scalable systems. I thrive on solving complex problems, whether it’s automating workflows, designing REST APIs, or crafting efficient database solutions. My expertise spans **Java**, **Python**, **C++**, and modern tools like **Spring Boot**, **Flask**, and **AWS**, and I’m always eager to bridge the gap between robust code and seamless user experiences.
+## About Me
+
+I am an **Aspiring Software Development Engineer (SDE)** with 1 year of industry exposure in **backend development** and **quality assurance**.  
+I am skilled in **Java**, **Spring Boot**, **SQL**, and **REST API development**, with practical experience across the full **software development lifecycle (SDLC)** in **Agile** environments.  
+I am a strong problem-solver with a passion for **building efficient, scalable, and maintainable software solutions**, always striving to bridge the gap between clean backend code and impactful user experiences.
 
 ---
 
@@ -15,17 +18,15 @@ I’m a **Computer Science graduate** from Shivaji University, Kolhapur, current
 
 ## 🛠️ Technical Skills  
 **Languages**: Java, Python, C++, SQL  
-**Backend**: Spring Boot, Flask, REST APIs, Hibernate  
-**Cloud & DevOps**: AWS (EC2, S3), CI/CD Pipelines, Docker (Basic)  
-**Testing**: Automation Frameworks, Postman, Selenium, JUnit  
-**Web**: ReactJS, HTML/CSS, JavaScript  
-**Tools**: Git, Jira, MySQL, MongoDB  
+**Backend**: Spring Boot, Flask 
+**Testing**: Manual Testing, Test Case Design 
+**Web**: HTML/CSS, JavaScript  
+**Tools**: Git, GitHub, Jira, MySQL  
 
 ---
 
 ## 👀 I’m Interested In  
-- **Backend Development**: Building scalable microservices, REST APIs, and database systems.  
-- **Cloud-Native Solutions**: Architecting applications with AWS, serverless tech, and containerization.  
+- **Backend Development**: Building scalable microservices, REST APIs, and database systems.   
 - **Software Quality**: Merging my QA expertise with development to create robust, testable systems.  
 - **Collaborative Innovation**: Projects that challenge me to grow as a developer while solving real-world problems.  
 
@@ -33,7 +34,6 @@ I’m a **Computer Science graduate** from Shivaji University, Kolhapur, current
 
 ## 🌱 Currently Learning  
 - **Advanced Spring Boot**: Mastering enterprise-grade backend development with Spring Security, JPA, and Cloud integrations.  
-- **AWS Certification**: Deepening my knowledge of cloud infrastructure and serverless architectures.  
 - **System Design**: Principles for building scalable, maintainable systems.  
 
 ---
@@ -41,13 +41,8 @@ I’m a **Computer Science graduate** from Shivaji University, Kolhapur, current
 ## 💼 Projects  
 **DB-Genie** | [GitHub](https://github.com/Aftab-1405)  
 _A natural language-powered database management tool_  
-- Built with **Flask** and **ReactJS**, enabling users to query databases using plain English.  
+- Built with **Flask** enabling users to query databases using plain English.  
 - Reduced complex SQL workflows by 40% for non-technical users.  
-
-**Workflow Automator** (Example)  
-_A Python-based tool to streamline manual QA processes_  
-- Automated repetitive test case generation, saving 10+ hours/month for the team.  
-- Integrated with Jira for seamless bug tracking.  
 
 ---
 
