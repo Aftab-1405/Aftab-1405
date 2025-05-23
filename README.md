@@ -42,14 +42,6 @@ I am a strong problem-solver with a passion for **building efficient, scalable, 
 
 ---
 
-## 💼 Projects  
-**DB-Genie** | [GitHub](https://github.com/Aftab-1405)  
-_A natural language-powered database management tool_  
-- Built with **Flask** enabling users to query databases using plain English.  
-- Reduced complex SQL workflows by 40% for non-technical users.  
-
----
-
 ## 📫 Let’s Connect  
 - **Email**: [an713374@gmail.com](mailto:an713374@gmail.com)  
 - **LinkedIn**: [Aftab Nadaf](https://www.linkedin.com/in/aftab-nadaf)  
