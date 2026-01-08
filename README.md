@@ -39,7 +39,7 @@ With a strong **Computer Science** background and hands-on experience in **Java*
 
 ## 🚀 Featured Projects  
 
-## **India - AI-Powered Fact-Checking Social Media Platform**
+## **D.E.M.N - AI-Powered Fact-Checking Social Media Platform**
 
 - Built an intelligent social media platform prevents misinformation spread through pre-publication fact verification  
 - Implemented AI-powered content classification (personal vs. factual) using **Google Gemini 2.5 Flash API** with automated web search integration  
@@ -49,13 +49,13 @@ With a strong **Computer Science** background and hands-on experience in **Java*
 
 ---
 
-## **DB-GENIE - AI-Powered Database Query & visualization tool** 
+## **MOONLIT - AI-Powered Database Query & visualization tool** 
 
 - Developed an intelligent web application with natural language to SQL converter, enabling non-technical users to query databases using plain English  
 - Integrated AI-powered query generation with dynamic execution and comprehensive error handling  
 - Basic level of data visualization
 
-**Tech Stack:** Python, Flask, MySQL, HTML, CSS, JS, Gemini API (flash)
+**Tech Stack:** Python, Fastapi, Relational DBMS, React with MUI and Cerebras api
 
 ---
 
