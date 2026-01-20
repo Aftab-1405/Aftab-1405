@@ -1,7 +1,7 @@
 # Hi there, I'm Aftab Nadaf 👋
 
 ## About Me
-I am a **Test Engineer** with 1+ year of industry experience @ Quality Kiosk Technologies.  
+I am a **Software Engineer** with 1.5 years of industry experience @Quality Kiosk Technologies.  
 I have worked on **IDFC First Bank's CMS 2.0** project, skilled in **manual testing**, **functional testing**, and **defect management** using **Agile** methodologies.  
 With a strong **Computer Science** background and hands-on experience in **Java**, **Python**, **SQL**, and **REST API**, I'm passionate about **software quality** and actively looking to transition toward **Development**.
 
